@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fpasuncion
-- 👀 I’m interested in ...longboard surfing and shaping, Toyota's...their trucks and the Trueno & Levin series.
-- 🌱 I’m currently learning ...computer networking, Python and Git.
+- 👀 I’m interested in ...longboard surfing and shaping, Toyota's...
+- 🌱 I’m currently learning ...computer networking & security, Python & Git, The Odin Project
 - 💞️ I’m looking to collaborate on ...projects with a team and company that hires me!
 - 📫 How to reach me ...fpasuncion@msn.com
 
